@@ -1,7 +1,7 @@
 const prompt = require("prompt-sync")();
 
 const pin = 200210;
-const balance = 15000;
+let balance = 15000;
 let userPin = Number(prompt("Enter pin: "));
 if (userPin === pin) {
   console.log("1. Check Balance");
