@@ -24,33 +24,6 @@ This is a simple console-based ATM Simulation project developed using JavaScript
 - Template Literals
 - Arithmetic Operators
 
-## ⚙️ How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/ramyabathala068/JavaScript-ATM-Miniproject.git
-   ```
-
-2. Navigate to the project folder:
-   ```bash
-   cd JavaScript-ATM-Simulation
-   ```
-
-3. Initialize npm:
-   ```bash
-   npm init -y
-   ```
-
-4. Install the required package:
-   ```bash
-   npm install prompt-sync
-   ```
-
-5. Run the JavaScript file:
-   ```bash
-   node miniproject.js
-   ```
-
 ## 🎯 Learning Outcome
 This project helped me understand JavaScript fundamentals and apply conditional statements, operators, and user input handling in a practical application.
 
