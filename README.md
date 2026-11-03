@@ -28,7 +28,7 @@ This is a simple console-based ATM Simulation project developed using JavaScript
 
 1. Clone the repository:
    ```bash
-   git clone 
+   git clone https://github.com/ramyabathala068/JavaScript-ATM-Miniproject.git
    ```
 
 2. Navigate to the project folder:
